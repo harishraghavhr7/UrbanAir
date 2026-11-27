@@ -1,0 +1,181 @@
+TITLE: CPCB National Air Quality Index — Technical Document and Health Impacts
+SOURCE: Central Pollution Control Board (CPCB), India
+PUBLISHER: Ministry of Environment, Forest and Climate Change, Government of India
+YEAR: 2014 (AQI Framework), updated 2023 (GRAP)
+URL: https://cpcb.nic.in/displaypdf.php?id=bmF0aW9uYWwtYWlyLXF1YWxpdHktaW5kZXgucGRm
+LICENSE: Government of India Open Data License (OGDL)
+DOC_TYPE: guideline
+REGION: india
+AUDIENCE: child, elderly, pregnant, respiratory, general
+
+=== SECTION 1: INDIA NATIONAL AQI FRAMEWORK ===
+
+India's National AQI was launched in October 2014 under the Swachh Bharat Mission.
+It is computed from 8 pollutants (unlike the US AQI which primarily uses PM2.5 and PM10):
+1. PM2.5
+2. PM10
+3. Nitrogen Dioxide (NO2)
+4. Sulfur Dioxide (SO2)
+5. Carbon Monoxide (CO)
+6. Ozone (O3)
+7. Ammonia (NH3)
+8. Lead (Pb)
+
+The AQI is calculated as the maximum sub-index across all measured pollutants.
+Only pollutants with at least 16 hours of data in a 24-hour period are included.
+
+AQI Categories and Color Codes:
+| AQI Range | Category      | Color  |
+|-----------|---------------|--------|
+| 0–50      | Good          | Green  |
+| 51–100    | Satisfactory  | Light green |
+| 101–200   | Moderate      | Yellow |
+| 201–300   | Poor          | Orange |
+| 301–400   | Very Poor     | Red    |
+| 401–500   | Severe        | Dark red/maroon |
+
+NOTE: India's "Satisfactory" (51-100) is equivalent to US AQI "Moderate". India's "Moderate" (101-200) overlaps US "Unhealthy for Sensitive Groups" and "Unhealthy".
+
+PM2.5 Breakpoints for India National AQI:
+| AQI  | PM2.5 (µg/m³) | Health Implications |
+|------|----------------|---------------------|
+| 0–50 | 0–30           | Minimal Impact |
+| 51–100 | 31–60        | Minor breathing discomfort to sensitive people |
+| 101–200 | 61–90       | Breathing discomfort to people with lung/heart disease |
+| 201–300 | 91–120      | Breathing discomfort to most people on prolonged exposure |
+| 301–400 | 121–250     | Respiratory illness to people on prolonged exposure |
+| 401–500 | 250+        | Affects healthy people; serious risk to sensitive groups |
+
+PM10 Breakpoints:
+| AQI  | PM10 (µg/m³) |
+|------|--------------|
+| 0–50 | 0–50         |
+| 51–100 | 51–100     |
+| 101–200 | 101–250   |
+| 201–300 | 251–350   |
+| 301–400 | 351–430   |
+| 401–500 | 430+       |
+
+=== SECTION 2: HEALTH IMPACTS BY AQI CATEGORY (CPCB) ===
+
+Good (0–50):
+- Minimal impact. Air quality is satisfactory and poses little or no health risk.
+- Recommended actions: Enjoy outdoor activities freely.
+
+Satisfactory (51–100):
+- Minor breathing discomfort to people with lung disease such as asthma.
+- Sensitive groups: Consider reducing prolonged outdoor exertion.
+- General population: Can engage in usual outdoor activities.
+
+Moderate (101–200):
+- Breathing discomfort to people with lung and heart diseases, children and older adults.
+- People with respiratory or heart disease, the elderly and children should limit prolonged outdoor exertion.
+- General population: Unusually sensitive individuals may experience symptoms.
+
+Poor (201–300):
+- Breathing discomfort to most people on prolonged exposure.
+- People with lung diseases such as asthma should avoid outdoor exertion.
+- General population: Sensitive groups should limit prolonged outdoor exertion.
+
+Very Poor (301–400):
+- Respiratory illness on prolonged exposure.
+- Avoid outdoor activities. People with heart or lung disease, elderly, and children should remain indoors.
+- General population: Avoid prolonged outdoor exertion; wear N95 mask if going out.
+
+Severe (401–500):
+- Affects healthy people and seriously compromises the health of those with lung/heart disease.
+- All people: Avoid outdoor activities entirely. Schools and outdoor events should be cancelled.
+- Emergency health measures: Use air purifiers, keep windows shut, seek medical attention for symptoms.
+
+=== SECTION 3: GRADED RESPONSE ACTION PLAN (GRAP) — 2023 ===
+
+GRAP is implemented by the Commission for Air Quality Management (CAQM) in NCR (National Capital Region).
+It triggers progressively stricter actions as AQI worsens.
+
+GRAP Stage I — Poor AQI (201–300):
+- Ban on use of coal and firewood in hotels, restaurants, open eateries
+- Mechanized sweeping of roads with water sprinkling
+- Citizens advised to use public transport; carpool encouraged
+- Ban on garbage burning
+
+GRAP Stage II — Very Poor AQI (301–400):
+- Ban on diesel generator sets (except hospitals, emergency services)
+- Strict enforcement of PUC (Pollution Under Control) norms
+- Construction activities restricted — dust control measures mandatory
+- Citizens advised: avoid private vehicles, work from home if possible
+- Schools may be closed for outdoor activities
+
+GRAP Stage III — Severe AQI (401–450):
+- BS III petrol and BS IV diesel four-wheelers banned in Delhi
+- Mining activities stopped
+- Schools advised to close or shift to online mode for children up to Class 5
+- Night construction banned
+- Citizens: avoid all non-essential outdoor trips
+
+GRAP Stage IV — Severe+ AQI (>450):
+- Trucks (non-essential) entry into Delhi banned
+- All construction and demolition activities stopped
+- Schools up to Class 12 shifted to online mode
+- State government may impose odd-even vehicle scheme
+- Industries not running on clean fuels shut down
+
+=== SECTION 4: INDIA-SPECIFIC POLLUTION SOURCES AND SEASONALITY ===
+
+Winter Smog — October to February (Worst Season):
+Primary causes in North India:
+1. Stubble burning: Punjab and Haryana farmers burn crop residue post-harvest (October-November)
+   - Contributes 20-40% of Delhi's PM2.5 during peak burning season
+   - Fires visible on satellite imagery; smoke travels 300-500 km to Delhi NCR
+2. Temperature inversion: Cold surface air traps pollutants under a warm air cap
+   - Inversion height drops to 100-200 m in winter (vs 1000-2000 m in summer)
+   - Pollutants accumulate near ground; no vertical mixing possible
+3. Diwali firecrackers: Single-night PM2.5 spike of 500-1000 µg/m³ in Delhi (October/November)
+4. Vehicle emissions: 40% of Delhi's PM2.5 year-round
+5. Industrial and construction dust: 25-30% contribution
+
+Time-of-Day Patterns (Delhi, October-February):
+- 6:00–9:00 AM: Highest AQI — overnight accumulation + morning traffic + cold air
+- 10:00 AM–12:00 PM: Improving — sun heats surface, breaks partial inversion
+- 12:00–3:00 PM: Relatively best period — mixing layer rises, dilutes pollutants
+- 4:00–7:00 PM: Rising again — evening traffic + cooling air retraps pollutants
+- 8:00 PM–5:00 AM: Steadily worsening — no traffic reduction, cold air settles
+
+Best air quality months for major Indian cities:
+- Delhi: July–September (monsoon washes PM2.5; AQI typically 50–100)
+- Mumbai: June–September (sea breeze + monsoon)
+- Bengaluru: Relatively consistent; June–September best
+- Chennai: October–December relatively worse due to northeast monsoon winds
+
+=== SECTION 5: CITIZEN ADVISORIES FOR SEVERE AND VERY POOR AQI ===
+
+CPCB and state PCBs issue the following citizen advisories during AQI > 300:
+
+Mandatory measures:
+- Do not venture outside unless absolutely necessary
+- If going out: wear N95 (BIS-certified IS 9473) or N99 masks; surgical masks do not filter PM2.5
+- Keep all windows and doors shut; use weather-stripping to seal gaps
+- Run HEPA air purifiers continuously in living spaces and bedrooms
+- Do not burn garbage, dried leaves, agarbatti (incense), or dhoop indoors
+- Avoid cooking methods that generate smoke (deep frying, open flame)
+
+Vehicle use:
+- Use CNG, electric, or hybrid vehicles
+- Use recirculation mode on car air conditioning to block outside air
+- Avoid using two-wheelers — rider is directly exposed to road-level pollution (2-3x background)
+- Carpool or use metro/bus to reduce road traffic
+
+Health monitoring:
+- Monitor for symptoms: persistent cough, breathlessness, chest tightness, eye irritation
+- Asthma patients: carry rescue inhaler at all times; consider doubling preventer inhaler dose after consulting doctor
+- If symptoms worsen: seek medical attention; air pollution can trigger cardiac and respiratory emergencies
+
+=== SECTION 6: REAL-TIME MONITORING NETWORK ===
+
+CPCB operates the National Ambient Air Quality Monitoring Programme (NAMP):
+- 950+ monitoring stations across 344 cities (2023)
+- Continuous monitoring stations: measure PM2.5, PM10, O3, NO2, SO2, CO in real time
+- Data accessible at: https://app.cpcbccr.com/AQI_India/
+- Mobile app: SAMEER (System of Air Quality and Weather Forecasting and Research)
+  - Available on Android and iOS
+  - Provides city-level and station-level AQI in real time
+  - Issues health advisories based on current AQI category

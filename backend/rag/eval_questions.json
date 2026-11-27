@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Is it safe for my 5-year-old to play outside today?",
+    "aqi": 180,
+    "region": "india",
+    "profile": {"has_children": true, "has_elderly": false, "health_conditions": ["none"]},
+    "expected_sources": ["who_aq_guidelines_2021", "cpcb_aqi_national_standards", "epa_airnow_health_guidance"],
+    "topic": "children_outdoor"
+  },
+  {
+    "id": 2,
+    "question": "My child has asthma and AQI is 312. What should I do?",
+    "aqi": 312,
+    "region": "india",
+    "profile": {"has_children": true, "health_conditions": ["asthma"]},
+    "expected_sources": ["who_aq_guidelines_2021", "cpcb_aqi_national_standards", "mask_commute_fuel_interventions"],
+    "topic": "children_asthma"
+  },
+  {
+    "id": 3,
+    "question": "How do I protect my elderly parents during winter smog?",
+    "aqi": 350,
+    "region": "india",
+    "profile": {"has_elderly": true, "health_conditions": ["none"]},
+    "expected_sources": ["who_aq_guidelines_2021", "cpcb_aqi_national_standards"],
+    "topic": "elderly_protection"
+  },
+  {
+    "id": 4,
+    "question": "I am pregnant. Is it safe to go to work when AQI is above 200?",
+    "aqi": 220,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["who_aq_guidelines_2021", "epa_airnow_health_guidance"],
+    "topic": "pregnancy"
+  },
+  {
+    "id": 5,
+    "question": "What mask should I wear when AQI is 300?",
+    "aqi": 300,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions", "cpcb_aqi_national_standards"],
+    "topic": "mask_selection"
+  },
+  {
+    "id": 6,
+    "question": "Does an N95 mask actually work against PM2.5?",
+    "aqi": 150,
+    "region": "global",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "n95_efficacy"
+  },
+  {
+    "id": 7,
+    "question": "How effective is a cloth mask compared to N95 for air pollution?",
+    "aqi": 200,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "mask_comparison"
+  },
+  {
+    "id": 8,
+    "question": "Should I commute by motorcycle or take the metro on a heavily polluted day?",
+    "aqi": 280,
+    "region": "india",
+    "profile": {"commute_mode": "motorcycle", "health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "commute_mode"
+  },
+  {
+    "id": 9,
+    "question": "How should I use my car's AC to reduce pollution exposure during commute?",
+    "aqi": 200,
+    "region": "india",
+    "profile": {"commute_mode": "car", "health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "car_recirculation"
+  },
+  {
+    "id": 10,
+    "question": "Is it safe to cycle to work when AQI is 90?",
+    "aqi": 90,
+    "region": "global",
+    "profile": {"commute_mode": "cycle", "health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "cycling_safety"
+  },
+  {
+    "id": 11,
+    "question": "What HEPA air purifier should I buy and how effective is it?",
+    "aqi": 250,
+    "region": "global",
+    "profile": {"has_air_purifier": false, "health_conditions": ["none"]},
+    "expected_sources": ["indoor_air_quality_research"],
+    "topic": "hepa_purifier"
+  },
+  {
+    "id": 12,
+    "question": "How do I make a cheap DIY air purifier at home?",
+    "aqi": 200,
+    "region": "global",
+    "profile": {"has_air_purifier": false, "health_conditions": ["none"]},
+    "expected_sources": ["indoor_air_quality_research"],
+    "topic": "corsi_rosenthal_diy"
+  },
+  {
+    "id": 13,
+    "question": "Do indoor plants help clean the air during smog?",
+    "aqi": 180,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["indoor_air_quality_research"],
+    "topic": "indoor_plants"
+  },
+  {
+    "id": 14,
+    "question": "Is cooking with gas stove making indoor air quality worse?",
+    "aqi": 150,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["indoor_air_quality_research"],
+    "topic": "cooking_emissions"
+  },
+  {
+    "id": 15,
+    "question": "Is burning incense or agarbatti harmful when outdoor AQI is already high?",
+    "aqi": 220,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["indoor_air_quality_research"],
+    "topic": "incense_indoor"
+  },
+  {
+    "id": 16,
+    "question": "What should I do to protect my asthmatic family member during GRAP Stage 4?",
+    "aqi": 420,
+    "region": "india",
+    "profile": {"health_conditions": ["asthma"]},
+    "expected_sources": ["cpcb_aqi_national_standards", "who_aq_guidelines_2021", "mask_commute_fuel_interventions"],
+    "topic": "asthma_grap4"
+  },
+  {
+    "id": 17,
+    "question": "How does switching from wood stove to LPG improve indoor air quality?",
+    "aqi": 100,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["mask_commute_fuel_interventions"],
+    "topic": "fuel_switching"
+  },
+  {
+    "id": 18,
+    "question": "What time of day has the worst air quality in Delhi in winter?",
+    "aqi": 310,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["cpcb_aqi_national_standards"],
+    "topic": "time_of_day_india"
+  },
+  {
+    "id": 19,
+    "question": "What are the long-term health risks of breathing polluted air for years?",
+    "aqi": 180,
+    "region": "global",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["who_aq_guidelines_2021"],
+    "topic": "long_term_health"
+  },
+  {
+    "id": 20,
+    "question": "What is the difference between India's AQI and US AQI scales?",
+    "aqi": 200,
+    "region": "india",
+    "profile": {"health_conditions": ["none"]},
+    "expected_sources": ["cpcb_aqi_national_standards", "epa_airnow_health_guidance"],
+    "topic": "aqi_scale_comparison"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "user_demo_001": {
+    "user_id": "user_demo_001",
+    "email": null,
+    "name": "Aryan Sharma",
+    "city": "New Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "commute_mode": "car",
+    "has_children": false,
+    "has_elderly": false,
+    "has_air_purifier": true,
+    "health_conditions": [
+      "asthma"
+    ],
+    "language": "en",
+    "schedule_habits": {
+      "wake_time": "06:00 AM",
+      "exercise_type": "outdoor_run",
+      "exercise_time": "06:30 AM",
+      "commute_departure": "08:30 AM",
+      "commute_return": "06:00 PM",
+      "has_school_run": false,
+      "school_run_time": "07:45 AM",
+      "cooking_time": "08:00 PM",
+      "sleep_time": "10:30 PM"
+    }
+  },
+  "guest_361dbbb3": {
+    "user_id": "guest_361dbbb3",
+    "email": null,
+    "name": "Guest User",
+    "city": "New Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "commute_mode": "car",
+    "has_children": false,
+    "has_elderly": false,
+    "has_air_purifier": false,
+    "health_conditions": [
+      "none"
+    ],
+    "language": "en",
+    "schedule_habits": {
+      "wake_time": "06:30 AM",
+      "exercise_type": "morning_walk",
+      "exercise_time": "07:00 AM",
+      "commute_departure": "08:30 AM",
+      "commute_return": "06:00 PM",
+      "has_school_run": false,
+      "school_run_time": "07:45 AM",
+      "cooking_time": "08:00 PM",
+      "sleep_time": "10:30 PM"
+    }
+  },
+  "a5150121-e904-4352-8d7a-75d1e82c6a8e": {
+    "user_id": "a5150121-e904-4352-8d7a-75d1e82c6a8e",
+    "email": null,
+    "name": "harishraghavhr7",
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "commute_mode": "cycle",
+    "has_children": false,
+    "has_elderly": false,
+    "has_air_purifier": false,
+    "health_conditions": [
+      "none"
+    ],
+    "language": "en",
+    "schedule_habits": {
+      "wake_time": "06:30 AM",
+      "exercise_type": "outdoor_run",
+      "exercise_time": "07:00 AM",
+      "commute_departure": "08:30 AM",
+      "commute_return": "06:00 PM",
+      "has_school_run": false,
+      "school_run_time": "07:45 AM",
+      "cooking_time": "08:00 PM",
+      "sleep_time": "10:30 PM"
+    }
+  }
+}

@@ -1,0 +1,154 @@
+TITLE: Intervention Studies — N95 vs Cloth Masks, LPG vs Biomass, Commute-Mode Exposure
+SOURCE: Multiple open-access studies (per-section citations)
+DOC_TYPE: intervention
+REGION: global
+AUDIENCE: child, elderly, pregnant, respiratory, general
+
+=== SECTION 1: N95 RESPIRATORS vs CLOTH MASKS vs SURGICAL MASKS ===
+
+Citation: Shakya, K.M. et al. (2017). "Evaluating the efficacy of cloth masks in reducing particulate matter exposure." Journal of Exposure Science & Environmental Epidemiology, 27, 352-357. DOI: 10.1038/jes.2016.42
+Citation: Langrish, J.P. et al. (2012). "Reducing personal exposure to particulate air pollution improves cardiovascular health in patients with coronary heart disease." Environmental Health Perspectives, 120(3), 367-372. DOI: 10.1289/ehp.1103898
+Citation: WHO (2020). "Advice on the use of masks in the context of COVID-19." WHO Technical Guidance.
+
+Filtration efficiency by mask type for PM2.5:
+| Mask Type | PM2.5 Filtration Efficiency | Notes |
+|-----------|---------------------------|-------|
+| N95 (US NIOSH standard) | 95% (≥0.3 µm particles) | Must be properly fitted; no fit = no protection |
+| FFP2 (European equivalent) | 94% | Same protection class as N95 |
+| N99 | 99% | Higher efficiency; harder to breathe through |
+| P100 / FFP3 | >99% | Used in industrial settings |
+| Surgical/medical mask | 10–30% (PM2.5) | Designed for droplets, NOT particles |
+| 3-layer cloth mask | 15–50% (PM2.5) | Highly variable; material and fit determine efficacy |
+| Single-layer cloth mask | <10% (PM2.5) | Essentially ineffective for PM2.5 |
+| Scarf / bandana | 5–10% | Minimal protection |
+
+Key findings:
+- Shakya et al. (2017): Surgical and cloth masks provide "little protection" against PM2.5; average <30% filtration efficiency
+- N95 respirators, when properly fitted with a seal check, reduce PM2.5 inhalation by 85–95% in real-world conditions
+- Fit is critical: an N95 worn incorrectly (no seal, beard, wrong size) may perform no better than a surgical mask
+- Langrish et al. (2012): Wearing an N95 during air pollution exposure significantly reduced markers of cardiac injury in coronary artery disease patients
+
+India-specific: BIS-certified masks for India:
+- N95 equivalent in India: BIS IS 9473:2002 (Class FFP1, FFP2, FFP3)
+- FFP2 (IS 9473, Class P2) is equivalent to N95 — 94% minimum filtration
+- Many masks sold in India as "N95" may not be BIS-certified — check for IS 9473 marking
+- CPCB advisory (2019): "Only N95 and N99 masks are effective against PM2.5 during heavy smog episodes"
+
+Proper N95 usage:
+- Perform fit check: cup mask over nose/mouth, inhale sharply — mask should collapse slightly (indicates seal)
+- N95s are designed for 8-hour use; replace or discard when damp, soiled, or breathing resistance increases
+- Valved N95s filter inhaled air but not exhaled — not recommended for infectious disease but fine for air pollution
+- Children: standard adult N95s do not fit properly; child-sized FFP2 masks are available but rare in India
+
+Health considerations:
+- N95 increases breathing resistance — not recommended for extended use in COPD or severe respiratory conditions
+- If breathlessness develops while wearing N95: remove and rest indoors
+- N95 provides no protection against ozone (gas) — only against particulate matter
+
+=== SECTION 2: LPG vs BIOMASS FUEL — HEALTH IMPACT COMPARISON ===
+
+Citation: Balakrishnan, K. et al. (2015). "The burden of disease attributable to household solid fuel use in India: Estimates from a nationally representative sample." Environment International, 85, 262-271. DOI: 10.1016/j.envint.2015.09.015
+Citation: WHO (2016). "Burning Opportunity: Clean Household Energy for Health, Sustainable Development, and Wellbeing of Women and Children." WHO Press.
+Citation: Pillarisetti, A. et al. (2014). "Patterns of stove usage after introduction of an advanced cookstove: The long-term application of household sensors." Environmental Science & Technology, 48(24), 14525-14533.
+
+Fuel type comparison — indoor PM2.5 concentrations during cooking:
+| Fuel Type | Kitchen PM2.5 during cooking (µg/m³) | 24-hr mean PM2.5 |
+|-----------|--------------------------------------|------------------|
+| Biomass (wood, dung, agricultural residue) | 1000–3000 | 300–800 |
+| Charcoal | 500–1500 | 150–400 |
+| Coal | 800–2000 | 200–600 |
+| Kerosene | 200–600 | 100–250 |
+| LPG (liquid petroleum gas) | 50–200 | 20–60 |
+| Piped natural gas | 40–150 | 15–50 |
+| Biogas (clean, filtered) | 30–100 | 10–30 |
+| Electric / induction | 20–50 (non-combustion) | 5–15 |
+
+Health burden of solid fuel use in India (Balakrishnan et al., 2015):
+- 300 million+ Indian households use solid fuels for cooking (2015 data; declining with PM Ujjwala Yojana)
+- Household solid fuel use causes: 1.1 million deaths per year in India (from IHME GBD 2015)
+- Causes: pneumonia, COPD, lung cancer, cardiovascular disease, cataracts, low birth weight
+- Women and children most exposed: women cook 3–5 hours/day; children often in kitchen
+- Each additional hour of biomass cooking exposure linked to 7% increase in childhood stunting
+
+Transition from biomass to LPG:
+- Reduces kitchen PM2.5 by 70–90%
+- Reduces 24-hour household PM2.5 by 60–80%
+- Associated with 30–50% reduction in acute lower respiratory infections in children under 5
+- Women's lung function improves measurably within 1 year of switching to LPG
+- India's PM Ujjwala Yojana (PMUY) distributed 90+ million free LPG connections to Below Poverty Line households (2016–2023)
+
+Transition from LPG to electric/induction:
+- Further reduces PM2.5 by 40–60% vs LPG
+- Eliminates CO and NO2 from combustion entirely
+- Requires reliable electricity supply — a constraint in many Indian rural areas
+- Electric induction cooking is 85–90% energy efficient (vs 60–70% for LPG)
+
+=== SECTION 3: COMMUTE MODE AND PERSONAL POLLUTION EXPOSURE ===
+
+Citation: Dons, E. et al. (2012). "Impact of time-activity patterns on personal exposure to black carbon." Atmospheric Environment, 55, 271-278. DOI: 10.1016/j.atmosenv.2012.03.030
+Citation: Ramos, C.A. et al. (2016). "Exposure to PM2.5 and PM10 during commuting by subway and car in Porto." Atmospheric Environment, 141, 395-404. DOI: 10.1016/j.atmosenv.2016.07.021
+Citation: Zuurbier, M. et al. (2011). "Commuters' exposure to particulate matter air pollution is affected by mode of transport." Environmental Health, 10, 10. DOI: 10.1186/1476-069X-10-10
+
+Personal PM2.5 exposure during commuting by mode:
+| Commute Mode | Relative PM2.5 Exposure | Key Factors |
+|-------------|------------------------|-------------|
+| Private car (windows open) | High (100%) — reference | Direct exposure to road traffic emissions |
+| Private car (windows closed, fresh air mode) | High (~80%) | Cabin filters outdoor air but not fully |
+| Private car (windows closed, recirculation mode) | Low–Medium (20–40%) | Best option for car users |
+| Motorcycle / two-wheeler | Very High (120–150%) | Rider at road level; no enclosure; directly in exhaust stream |
+| Bus (diesel, windows open) | High (90–110%) | Near road-level exhaust of leading vehicles |
+| Bus (AC, windows closed) | Medium (50–70%) | Some filtration but older buses have poor filtration |
+| Metro / underground subway | Low–Medium (40–70%) | Subway PM2.5 mainly from brake dust (PM10 dominant); less PM2.5 |
+| Metro / surface rail | Low (30–50%) | Good enclosure; not in traffic stream |
+| Cycling | High–Very High (110–130%) | High breathing rate + road-level position |
+| Walking | Medium (60–80%) | Lower breathing rate; can choose routes away from traffic |
+
+Key findings:
+- Motorcycle riders have the highest PM2.5 inhalation dose of any commute mode — combining high exposure with high breathing rate from physical exertion
+- Car users on recirculation AC: 50–60% lower exposure than on fresh air mode (Zuurbier et al., 2011)
+- Cyclists: Higher exposure than car drivers due to breathing rate (3–5x rest) but lower exposure than motorcyclists due to route flexibility
+- Metro/subway: Lower PM2.5 from road traffic but higher levels of metal particles from brake/wheel dust — different health profile
+
+Strategies to reduce commute exposure:
+1. Use recirculation mode on car AC — single most effective action for drivers (60% reduction)
+2. Take metro/bus over motorcycle or open car
+3. For cyclists: choose routes with minimal vehicle traffic; wear N95 mask
+4. Avoid commuting during peak pollution hours: 7–10 AM, 5–8 PM — shift commute if possible
+5. Carpool: reduces road traffic density; reduces per-person exposure by reducing total vehicles
+6. Work from home: eliminates commute exposure entirely
+
+CO2 emissions by commute mode (grams CO2 per passenger-km):
+| Mode | gCO2/passenger-km |
+|------|-------------------|
+| Private car (single occupant, petrol) | 171–210 |
+| Private car (diesel) | 156–195 |
+| Private car (CNG) | 100–120 |
+| Motorcycle (petrol) | 80–110 |
+| Electric vehicle | 50–90 (grid-dependent) |
+| City bus (diesel, 50% full) | 55–89 |
+| CNG bus | 40–65 |
+| Metro / subway | 25–55 |
+| E-rickshaw | 30–45 |
+| Cycling | 0 |
+| Walking | 0 |
+
+Source for CO2 figures: IPCC AR6 Transport Chapter (2022); TERI India Transport Energy Database (2021).
+
+=== SECTION 4: PHYSICAL ACTIVITY AND AIR POLLUTION — BALANCING RISKS ===
+
+Citation: Tainio, M. et al. (2016). "Can air pollution negate the health benefits of cycling and walking?" Preventive Medicine, 87, 233-236. DOI: 10.1016/j.ypmed.2016.02.002
+
+The paradox: Exercise increases breathing rate (10x compared to rest), increasing particle intake. But inactivity has its own health risks.
+
+Tainio et al. (2016) breakeven analysis:
+- Up to AQI ~100 (PM2.5 ~35 µg/m³): Health benefits of cycling outweigh pollution harms even for daily cycling commutes in most cities
+- AQI 100–150 (PM2.5 35–55 µg/m³): Benefits and risks approximately balance; short, low-intensity rides still beneficial
+- AQI > 150: Strenuous outdoor exercise risks outweigh benefits; move exercise indoors
+- AQI > 200: Even brief outdoor exertion poses health risk for sensitive individuals
+
+Practical recommendations:
+- Low-intensity walking (AQI up to 150): generally safe even for sensitive groups if duration < 30 minutes
+- Cycling for commute (AQI up to 100): safe with N95 mask
+- Running / vigorous exercise: limit to AQI < 100; if AQI 100–150, use N95 and reduce intensity
+- AQI > 150: Move all vigorous exercise indoors (gym, home workout)
+- Always choose routes with minimal traffic — roadside PM2.5 is 2–3x background

@@ -1,0 +1,135 @@
+TITLE: Indoor Air Quality Management — HEPA Purifiers, Corsi-Rosenthal Box, Indoor Plants, and Cooking Emissions
+SOURCE: Multiple open-access studies and institutional reports (see per-section citations)
+DOC_TYPE: research
+REGION: global
+AUDIENCE: child, elderly, pregnant, respiratory, general
+
+=== SECTION 1: HEPA AIR PURIFIERS — EFFICACY ===
+
+Citation: Chen, R. et al. (2018). "Portable air cleaners should be at the core of the public health response to landscape fire smoke." Environment International, 111, 282-284. DOI: 10.1016/j.envint.2017.11.034.
+
+HEPA (High Efficiency Particulate Air) filter performance:
+- True HEPA filters capture ≥99.97% of airborne particles ≥0.3 µm in diameter (ASHRAE 52.2 / EN 1822 standard)
+- PM2.5 (≤2.5 µm) is captured at >99% efficiency by True HEPA
+- PM10 (≤10 µm): >99.5% efficiency
+
+Typical air purifier efficacy in homes during wildfire/smog events:
+- Studies consistently show 50–75% reduction in indoor PM2.5 when HEPA purifiers run continuously
+- Chen et al. (2018) review of 8 randomized trials: mean indoor PM2.5 reduction of 60% (range 42–80%)
+- Portable HEPA air cleaner in a bedroom (25 m² room, CADR 150 m³/hr): reduces PM2.5 from ~100 to ~25–35 µg/m³ in 30 minutes with windows closed
+- Recommended CADR (Clean Air Delivery Rate) for room sizing: CADR ≥ 2/3 of room area in m² (e.g., 25 m² room → CADR ≥ 150 m³/hr)
+
+Operational recommendations from research:
+- Run on highest speed during high AQI; medium overnight
+- Keep room doors closed to maximize effect in that space
+- Replace filters: typically every 6–12 months; shorter interval if used continuously during high-pollution seasons
+- Position away from walls (30 cm clearance) for optimal airflow
+- Do not block air intake with furniture
+
+=== SECTION 2: CORSI-ROSENTHAL BOX (DIY HEPA ALTERNATIVE) ===
+
+Citation: Christopherson, D.A. et al. (2021). "Portable Air Cleaners (PACs) for COVID-19 Mitigation in Classrooms and Offices." Preprint, University of California Davis. URL: https://escholarship.org/uc/item/6dn4t5nw
+
+The Corsi-Rosenthal (CR) Box is a DIY air purifier developed by Dr. Richard Corsi (University of Texas) and Jim Rosenthal (Tex-Air Filters) in 2020:
+- Constructed from: 4–5 MERV-13 furnace filters + a standard box fan (20x20 inch)
+- Assembly: 4 filters taped into a cube with fan on top blowing air upward; cardboard base
+- Cost: approximately $50–100 USD (vs $200–500 for commercial HEPA purifiers)
+- Efficacy: Removes 85–90% of particles ≥1 µm; approximately 50–65% of PM2.5
+
+Performance data:
+- Typical CADR: 400–600 m³/hr (comparable to or exceeding most mid-range commercial purifiers)
+- Studies in classrooms: 73% reduction in airborne particles in 30 minutes
+- Outperforms single box-fan-and-filter designs by 2x due to increased filter surface area
+
+Limitations:
+- Less effective for sub-micron particles compared to True HEPA
+- Fan noise can be an issue; use lower speed at night
+- Must use MERV-13 (not lower ratings) to get meaningful PM2.5 filtration
+
+=== SECTION 3: INDOOR PLANTS — REALISTIC ASSESSMENT ===
+
+Citation: Godish, T. & Godish, D. (2006). "Phytoremediation of indoor air pollutants." Journal of Environmental Health, 69(4), 47-50.
+Citation: Cummings, B.E. & Waring, M.S. (2020). "Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies." Journal of Exposure Science & Environmental Epidemiology, 30, 253-261. DOI: 10.1038/s41370-019-0175-9
+
+Key findings from peer-reviewed research:
+- NASA Clean Air Study (1989) initially suggested plants remove VOCs — but this was in sealed laboratory conditions with single plants
+- Real-world assessments show plants have negligible effect on indoor PM2.5
+- Cummings & Waring (2020): Plants would need 10–1,000 more plants per m² than typical home densities to match mechanical ventilation for VOC removal
+- Plants cannot filter particulate matter (PM2.5, PM10) — their mechanism is VOC absorption via leaf stomata and root microorganisms
+- Relative humidity benefit: plants slightly increase indoor humidity, which may help mucous membranes fight pollution
+
+Specific plants with documented VOC absorption (limited effect):
+- Snake plant (Sansevieria trifasciata): Absorbs NOx, benzene, formaldehyde; releases O2 at night
+- Spider plant (Chlorophytum comosum): Formaldehyde, xylene removal in controlled studies
+- Peace lily (Spathiphyllum): Benzene, trichloroethylene, formaldehyde — documented in NASA study
+- English ivy (Hedera helix): Some airborne mold particle removal
+
+Conclusion: Indoor plants are beneficial for wellbeing and modest humidity regulation but should NOT be relied upon as a substitute for HEPA air purifiers for PM2.5 removal.
+
+=== SECTION 4: COOKING EMISSIONS AND INDOOR AIR QUALITY ===
+
+Citation: See, S.W. et al. (2006). "Physical characteristics of nanoparticles emitted from different gas cooking methods." Science of the Total Environment, 354(1), 48-59.
+Citation: Zhang, Q. et al. (2010). "Characterization of ultrafine particles and other air pollutants indoors and outdoors during cooking." Indoor Air, 20(6), 448-460.
+
+Cooking is a major source of indoor PM2.5:
+
+PM2.5 concentrations generated by cooking method (measured 1 m from stove):
+| Cooking Method | Peak PM2.5 (µg/m³) | Duration of Elevated Levels |
+|----------------|--------------------|-----------------------------|
+| Deep frying (high heat) | 300–1500 | 30–60 min |
+| Stir frying | 100–600 | 15–30 min |
+| Gas stove boiling | 50–150 | 10–20 min |
+| Electric stove boiling | 20–80 | 10–15 min |
+| Toasting bread | 100–200 | 5–10 min |
+| Gas stove on (no cooking) | 20–50 (NO2 + CO) | Continuous |
+
+Indian cooking methods — specific concerns:
+- Tadka (tempering spices in hot oil): PM2.5 spike of 500–2000 µg/m³ in kitchen
+- Roti/chapati on open flame: 200–400 µg/m³
+- Pressure cooking: Lower emissions (~30–80 µg/m³) due to sealed cooking
+- Biomass cooking (wood/dung): 1000–3000 µg/m³; major health hazard; WHO estimates 3.2 million deaths/year from HAP
+
+Mitigation strategies (evidence-based):
+- Exhaust fan / range hood running during cooking: 60–70% reduction in PM2.5
+- Cross-ventilation through kitchen window during and after cooking: additional 30% reduction
+- Switching from wood/biomass to LPG: 70–90% reduction in indoor PM2.5
+- Switching from LPG to induction/electric cooking: further 40–60% reduction vs LPG
+- Electric cooking generates zero combustion products; safest indoor option
+- Keep pot lids on during boiling — reduces steam and particle re-suspension
+
+Incense, dhoop, and mosquito coils:
+- Agarbatti (incense): 7–19 mg PM2.5 per stick; burning indoors raises room PM2.5 to 150–300 µg/m³
+- Dhoop: Higher particle output than agarbatti (~40–80 mg per stick)
+- Mosquito coils: 72–164 mg PM2.5 per coil (equivalent to 75–137 cigarettes for one coil)
+- Recommendation: Use electric mosquito repellent mats instead; diffuse incense in ventilated areas only
+
+=== SECTION 5: INDOOR AQI MANAGEMENT — COMPREHENSIVE PROTOCOL ===
+
+Based on synthesis of the above research sources:
+
+When outdoor AQI is Good (0–50):
+- Ventilate freely; open windows for fresh air
+- Cooking: use exhaust fan; mild ventilation sufficient
+
+When outdoor AQI is Moderate (51–100):
+- Sensitive groups: Keep windows partially open; run air purifier on medium
+- Cooking: always run exhaust fan; close kitchen door to other rooms
+- Time window opening for 11 AM–2 PM when possible
+
+When outdoor AQI is Unhealthy (101–200):
+- Keep windows closed; run HEPA purifier continuously on high in occupied rooms
+- Use exhaust fan during cooking but keep other windows closed to prevent outside air infiltration
+- Avoid incense, dhoop, candles, and mosquito coils entirely
+- Use towels to seal gaps under doors if inversion is severe
+
+When outdoor AQI is Very Unhealthy (201–300):
+- Full seal of premises; run HEPA purifier 24 hours
+- Prioritize: bedroom air purifier running all night at minimum
+- Do not vacuum — raises settled particles; wet mop instead
+- Cook with lids on; switch to electric cooking if available; run powerful exhaust directly to outside only
+
+When outdoor AQI is Hazardous (>300):
+- Create clean room: one room (preferably bedroom) sealed and purified
+- Family should spend maximum time in clean room
+- Pregnant women and children should not leave clean room
+- If no purifier: improvise Corsi-Rosenthal box; seal room with wet towels under door

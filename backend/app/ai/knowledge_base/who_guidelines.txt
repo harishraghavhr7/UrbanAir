@@ -1,0 +1,258 @@
+SOURCE: WHO Air Quality Guidelines 2021
+TOPIC: PM2.5 Health Effects and Guidelines
+CATEGORY: health_guidelines
+
+WHO revised its air quality guidelines in 2021, significantly tightening limits due to growing evidence of harm at lower concentrations.
+
+PM2.5 Annual Mean Guideline: 5 µg/m³ (down from 10 µg/m³)
+PM2.5 24-hour Mean Guideline: 15 µg/m³ (99th percentile)
+
+Health effects of PM2.5 exposure:
+- PM2.5 particles penetrate deep into the lungs and enter the bloodstream
+- Short-term exposure causes respiratory inflammation, reduced lung function, aggravated asthma
+- Long-term exposure is linked to cardiovascular disease, stroke, lung cancer, and premature death
+- Children are especially vulnerable: PM2.5 affects lung development and can cause lifelong damage
+- Elderly individuals and those with pre-existing conditions face disproportionate risks
+- Even brief exposure to AQI >150 can trigger cardiac events in susceptible individuals
+- PM2.5 crosses the blood-brain barrier, contributing to neurological effects
+
+Protective measures endorsed by WHO:
+- Stay indoors with windows closed during high-pollution events
+- Use HEPA air purifiers to reduce indoor PM2.5 by 50-70%
+- N95/N99 masks are effective at filtering PM2.5 when properly fitted
+- Avoid outdoor exercise during pollution peaks (typically morning and evening rush hours)
+- Indoor plants like snake plants and spider plants offer modest air purification
+- Regular wet mopping reduces settled particulate matter indoors
+
+---
+
+SOURCE: WHO Air Quality Guidelines 2021
+TOPIC: NO2 and Ozone Guidelines
+CATEGORY: health_guidelines
+
+Nitrogen Dioxide (NO2):
+- WHO Annual Guideline: 10 µg/m³
+- WHO 24-hour Guideline: 25 µg/m³
+- Primary source: vehicle exhaust, power plants
+- Health impact: Inflames airways, worsens asthma, increases respiratory infection risk
+- Indoor sources: gas stoves, unvented heaters — ensure kitchen ventilation
+
+Ground-level Ozone (O3):
+- WHO 8-hour peak season guideline: 60 µg/m³
+- Formed when NOx and VOCs react in sunlight — worst on hot, sunny afternoons
+- Causes chest pain, coughing, throat irritation, worsens lung diseases
+- Outdoor exercise should be avoided when ozone alerts are issued
+- Ozone typically peaks between 2 PM and 7 PM — plan outdoor activities for mornings
+
+---
+
+SOURCE: US EPA AQI Technical Documentation
+TOPIC: AQI Calculation and Health Breakpoints
+CATEGORY: aqi_science
+
+The Air Quality Index (AQI) is a standardized scale from 0 to 500:
+
+0–50 (Good): Air quality is satisfactory. Little or no risk.
+51–100 (Moderate): Acceptable. Unusually sensitive people should consider reducing prolonged outdoor exertion.
+101–150 (Unhealthy for Sensitive Groups): People with lung disease, older adults, children should reduce prolonged outdoor exertion.
+151–200 (Unhealthy): Everyone may begin to experience health effects. Sensitive groups: more serious effects.
+201–300 (Very Unhealthy): Health alert. Everyone should avoid prolonged outdoor exertion.
+301–500 (Hazardous): Health warning of emergency conditions. Entire population is at risk.
+
+Berkeley Earth Cigarette Equivalence Study:
+- 22 µg/m³ of annual PM2.5 exposure ≈ 1 cigarette/day
+- AQI 150 (PM2.5 ~55 µg/m³) ≈ 2.5 cigarettes/day
+- AQI 200 (PM2.5 ~100 µg/m³) ≈ 4.5 cigarettes/day
+- AQI 300 (PM2.5 ~200 µg/m³) ≈ 9 cigarettes/day
+- AQI 400+ (PM2.5 ~300+ µg/m³) ≈ 13-20 cigarettes/day
+
+---
+
+SOURCE: India CPCB (Central Pollution Control Board)
+TOPIC: Indian AQI Standards and Winter Smog
+CATEGORY: india_specific
+
+India's National AQI uses the same 0-500 scale but is computed from 8 pollutants:
+PM2.5, PM10, NO2, SO2, CO, O3, NH3, Pb
+
+India-specific context:
+- Delhi's winter AQI frequently exceeds 400 during November-January due to crop burning + cold air trapping pollutants
+- Diwali firecrackers cause single-day AQI spikes to 999+ 
+- Morning (6-10 AM) and evening (6-9 PM) rush hours have highest pollution levels due to traffic + temperature inversion
+- Temperature inversion in winter traps pollutants close to ground, making mornings especially hazardous
+- Indoor air quality in Indian urban homes can be 2-5x worse than outdoor due to cooking smoke, incense, and mosquito coils
+
+CPCB Advisories for Very Poor / Severe AQI:
+- Avoid outdoor physical activity entirely
+- Keep car windows rolled up; use recirculation mode on AC
+- Use N95 or higher masks outdoors — surgical masks do NOT protect against PM2.5
+- Do not burn garbage, leaves, or agricultural waste
+- Use CNG/electric vehicles or public transport to reduce your contribution
+- Water spray on roads significantly reduces dust re-suspension
+
+Emergency measures for AQI > 400:
+- Schools should consider closure or move classes indoors with air purifiers
+- Pregnant women, infants, and elderly should not go outdoors at all
+- Athletes and manual workers should not perform strenuous outdoor activities
+
+---
+
+SOURCE: Indoor Air Quality Research - Multiple Studies
+TOPIC: Indoor Air Quality Management
+CATEGORY: indoor_quality
+
+Indoor Air Quality Facts:
+- Indoor PM2.5 is typically 60-80% of outdoor levels even with windows closed
+- With open windows during heavy pollution: indoor levels can equal outdoor within 20 minutes
+- Cooking (especially deep frying, high-heat) produces PM2.5 spikes up to 300 µg/m³ indoors
+
+HEPA Air Purifiers:
+- True HEPA filters capture 99.97% of particles ≥0.3 µm, including PM2.5
+- Run on highest setting for 30 minutes to clear a room, then maintain on low
+- Room coverage: 1 purifier per bedroom + 1 for living area
+- Replace filters every 6-12 months depending on pollution levels
+- DIY option: Box fan + HEPA furnace filter (Corsi-Rosenthal box) — 50-70% efficacy
+
+Ventilation Strategies:
+- Avoid opening windows from 6-10 AM and 6-9 PM (peak traffic pollution times)
+- Best window-opening window: 11 AM - 2 PM when temperature inversion clears
+- Cross-ventilation reduces indoor VOCs and CO2 — do briefly during low-AQI periods
+
+Indoor Plants for Air Quality:
+- Snake plant (Sansevieria): Absorbs NOx and VOCs, releases O2 at night
+- Spider plant: Effective at removing formaldehyde and xylene
+- Peace lily: Absorbs benzene, trichloroethylene, formaldehyde
+- Note: Plants help marginally — they cannot match HEPA purifiers for PM2.5
+
+Cooking and Indoor Pollution:
+- Use exhaust fans / range hoods when cooking — reduces cooking PM2.5 by 60-70%
+- Prefer cooking methods that generate less smoke: steaming, boiling over frying
+- Avoid incense and mosquito coils indoors — they produce significant PM2.5
+- Dhoop and agarbatti burning can raise indoor AQI equivalent to 200+ for 30 minutes
+
+---
+
+SOURCE: Sustainable Urban Transport Research
+TOPIC: Low-Emission Commute Alternatives
+CATEGORY: low_emission_lifestyle
+
+Emission comparison by commute mode (CO2 equivalent per passenger-km):
+- Private car (petrol): 192 g CO2/km
+- Private car (diesel): 171 g CO2/km
+- CNG car: 109 g CO2/km
+- Bus (city): 89 g CO2/km
+- Metro/subway: 41 g CO2/km
+- E-rickshaw: 35 g CO2/km
+- Bicycle: 0 g CO2/km
+- Walking: 0 g CO2/km
+
+Practical Low-Emission Alternatives:
+- Metro + last-mile e-auto: Reduces personal emission by ~75% vs car
+- Carpooling 4 people: Reduces per-person emission by 75%
+- Electric vehicles: Zero tailpipe emissions but grid-dependent
+- Cycling with N95 mask: Practical for distances < 5 km in moderate AQI
+- Work from home: Eliminates commute pollution entirely; reduces city-wide traffic by 20% if widespread
+
+Best practices during high-pollution commutes:
+- Take metro/bus over personal vehicles — reduces road congestion and total emissions
+- If driving: use AC recirculation mode (reduces PM2.5 intake by 70% vs fresh air mode)
+- Avoid idling — turn off engine at signals > 30 seconds
+- Plan routes to avoid high-traffic corridors and near industrial zones
+- Carry N95 masks; keep spare in car/bag
+
+---
+
+SOURCE: Nutrition and Environmental Medicine Research
+TOPIC: Dietary and Lifestyle Interventions for Pollution Protection
+CATEGORY: health_protection
+
+Diet and Nutrition for Pollution Protection:
+- Antioxidants neutralize free radicals generated by PM2.5 exposure in the lungs
+- Vitamin C (citrus, bell peppers): 500 mg/day reduces PM2.5-induced oxidative stress by 20%
+- Vitamin E (nuts, seeds, olive oil): Protects lung cell membranes from pollution damage
+- Omega-3 fatty acids (fish, flaxseed): Reduce inflammation triggered by air pollution
+- Turmeric (curcumin): Anti-inflammatory, shown to reduce PM2.5-induced lung damage in studies
+- Green tea: Polyphenols protect against pollution-induced DNA damage
+- Avoid heavy meat and processed food on high-AQI days — increases inflammatory response
+
+Hydration:
+- Drink 8-10 glasses of water on high-pollution days
+- Water helps flush pollutants absorbed through the respiratory system
+- Avoid alcohol on high-AQI days — dehydration worsens pollution effects
+
+Exercise Adaptation:
+- Avoid high-intensity outdoor exercise when AQI > 100
+- Breathing rate during intense exercise is 10x resting — dramatically increases particle intake
+- Opt for yoga, stretching, or indoor cardio on bad air days
+- If outdoor exercise necessary: early morning tends to have lower ozone; use N95 mask
+- Post-exercise nasal rinse with saline reduces inhaled particle burden
+
+Children-Specific Protections:
+- Children breathe 50% more air per body weight than adults
+- School bags: include N95 mask (child-sized), extra water bottle
+- School route: prefer walking routes away from main roads
+- Avoid outdoor playtime during school recess on AQI > 150 days
+
+---
+
+SOURCE: Emergency Response Guidelines - Multiple Health Authorities
+TOPIC: Vulnerable Population Protection
+CATEGORY: vulnerable_groups
+
+High-Risk Groups and Special Precautions:
+
+PREGNANT WOMEN:
+- PM2.5 crosses the placenta and is linked to preterm birth, low birth weight, and developmental issues
+- Avoid all outdoor exposure when AQI > 150
+- Use N95 mask if outdoor exposure unavoidable
+- Ensure indoor air purifier runs continuously in living and sleeping areas
+- Inform obstetrician of prolonged exposure for monitoring
+
+INFANTS AND YOUNG CHILDREN (0-5 years):
+- Never take infants outdoors on AQI > 150 days
+- Use stroller cover/canopy that filters air when going out is unavoidable
+- Ensure baby's sleep area has purified air (purifier in bedroom)
+- Breast milk passes on some protective antioxidants — continue breastfeeding
+
+ELDERLY (65+):
+- Highest risk of cardiovascular events triggered by air pollution
+- Monitor for unusual breathlessness, chest tightness — seek care promptly
+- Keep emergency inhaler/medication accessible on bad air days
+- Avoid morning walks until AQI < 100
+
+ASTHMA/RESPIRATORY PATIENTS:
+- Keep rescue inhaler always accessible during high-AQI periods
+- Pre-treat with inhaler 15 min before any unavoidable outdoor exposure
+- Track personal peak flow measurements — pollution can reduce lung function 10-20%
+- Contact doctor if symptoms worsen — may need temporary steroid course
+
+HEART DISEASE PATIENTS:
+- PM2.5 can trigger arrhythmia and myocardial infarction — take AQI alerts seriously
+- Avoid any outdoor exertion when AQI > 100
+- Watch for unusual fatigue, chest discomfort, palpitations on high-AQI days
+- Carry nitrates and emergency medications
+
+---
+
+SOURCE: Air Quality Monitoring Technology Guide
+TOPIC: Understanding AQI Readings and Sources
+CATEGORY: aqi_literacy
+
+How to Interpret AQI Readings:
+- AQI is calculated from the WORST pollutant at any given time — a single pollutant can drive the index
+- Different monitors (IQAir, CPCB, WAQI, PurpleAir) may show different values due to different sensors
+- PurpleAir and low-cost sensors tend to read 20-40% higher than reference-grade monitors
+- Hyperlocal variation: AQI can differ by 50-100 points within 1 km (near roads vs parks)
+
+Seasonal Patterns in Indian Cities:
+- October-February: Worst pollution — cold air, temperature inversion, crop burning, Diwali
+- March-May: Moderate — dust storms from Rajasthan, pre-monsoon heat
+- June-September: Best air — monsoon washes pollutants; lowest PM2.5 of year
+- Best cities for air quality: Lakshadweep, Mizoram, Sikkim, Arunachal Pradesh
+
+Time of Day Patterns:
+- 6-9 AM: High — temperature inversion traps overnight pollution + morning traffic
+- 10 AM-12 PM: Improving — sun heats air, breaks inversion, disperses pollutants
+- 12-3 PM: Usually best — mixing layer is highest, diluting pollutants
+- 4-7 PM: Rising — afternoon traffic + cooling air traps pollutants again
+- 8 PM-5 AM: High — overnight temperature drop + minimal wind dispersal

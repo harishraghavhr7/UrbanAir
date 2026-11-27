@@ -1,0 +1,112 @@
+TITLE: WHO Global Air Quality Guidelines 2021 — Key Extracts
+SOURCE: World Health Organization (WHO)
+PUBLISHER: WHO Press, Geneva
+YEAR: 2021
+URL: https://www.who.int/publications/i/item/9789240034228
+LICENSE: CC BY-NC-SA 3.0 IGO
+DOC_TYPE: guideline
+REGION: global
+AUDIENCE: child, elderly, pregnant, respiratory, general
+
+=== SECTION 1: REVISED GUIDELINE VALUES ===
+
+The 2021 WHO Global Air Quality Guidelines significantly tightened limits compared to the 2005 edition, reflecting the growing body of evidence that air pollution causes harm at concentrations previously considered acceptable.
+
+Revised Annual Mean Guidelines:
+- PM2.5: 5 µg/m³  (previous 2005 value: 10 µg/m³, now halved)
+- PM10:  15 µg/m³ (previous 2005 value: 20 µg/m³)
+- NO2:   10 µg/m³ (previous 2005 value: 40 µg/m³, now quartered)
+- O3:    60 µg/m³ (8-hour peak season mean)
+- SO2:   40 µg/m³ (24-hour mean)
+- CO:    4 mg/m³  (24-hour mean)
+
+Revised 24-hour Mean Guidelines:
+- PM2.5: 15 µg/m³ (99th percentile, i.e., 3-4 days/year may exceed)
+- PM10:  45 µg/m³
+- NO2:   25 µg/m³
+
+Interim targets are provided for countries that cannot immediately meet the guidelines:
+- PM2.5 Interim Target 1 (IT-1): 35 µg/m³ (annual mean) — most Indian cities exceed this
+- PM2.5 Interim Target 2 (IT-2): 25 µg/m³
+- PM2.5 Interim Target 3 (IT-3): 15 µg/m³
+
+=== SECTION 2: HEALTH EFFECTS OF PM2.5 ===
+
+Particulate matter smaller than 2.5 µm (PM2.5) poses the greatest health risk of all air pollutants because:
+- Particles penetrate deep into the alveoli (gas-exchange sacs) of the lungs
+- They enter the bloodstream and are transported to all organs
+- PM2.5 crosses the blood-brain barrier, contributing to neurological effects
+- PM2.5 crosses the placenta, exposing the developing fetus
+
+Short-term PM2.5 exposure (hours to days) causes:
+- Respiratory inflammation and reduced lung function
+- Aggravated asthma — increased frequency and severity of attacks
+- Emergency department visits for respiratory and cardiovascular events
+- Increased risk of acute myocardial infarction (heart attack) in susceptible individuals
+- Acute bronchitis in children
+- Exacerbation of COPD (chronic obstructive pulmonary disease)
+
+Long-term PM2.5 exposure (months to years) causes:
+- Cardiovascular disease (ischemic heart disease, stroke)
+- Lung cancer — classified as Group 1 carcinogen by IARC
+- Chronic obstructive pulmonary disease (COPD) development
+- Reduced lung development in children, permanent impairment
+- Type 2 diabetes — growing evidence of metabolic pathway impacts
+- Cognitive decline and dementia in elderly populations
+- Adverse birth outcomes: preterm birth, low birth weight, infant mortality
+
+=== SECTION 3: VULNERABLE POPULATIONS ===
+
+Children (under 15 years):
+- Breathe 50% more air per unit of body weight than adults
+- Lungs are still developing — PM2.5 exposure during childhood causes permanent reduction in lung capacity
+- Higher respiratory rate means more particles deposited per hour
+- Activity patterns (outdoor play, school routes) increase exposure
+- Evidence links PM2.5 exposure to childhood asthma development and exacerbation
+- WHO recommendation: children should not engage in prolonged outdoor physical activity when AQI > 150
+
+Elderly (65 years and over):
+- Pre-existing cardiovascular and respiratory disease increases vulnerability
+- Cardiovascular events (heart attack, stroke) are strongly linked to PM2.5 exposure in this group
+- Each 10 µg/m³ increase in PM2.5 is associated with a 6-13% increase in cardiovascular mortality
+- Immune function is reduced, increasing susceptibility to pollution-aggravated infections
+- WHO recommendation: elderly should avoid outdoor exposure when AQI > 100
+
+Pregnant women:
+- PM2.5 is associated with preterm birth (before 37 weeks), low birth weight, and stillbirth
+- Fetal exposure linked to impaired lung and brain development
+- Gestational diabetes risk increases with long-term PM2.5 exposure
+- WHO recommendation: pregnant women should minimize outdoor exposure when AQI > 100
+
+Persons with respiratory conditions (asthma, COPD):
+- Asthma attacks are directly triggered by PM2.5, O3, and NO2 exposure
+- PM2.5 exposure causes bronchial inflammation and airway hyperresponsiveness
+- Each 10 µg/m³ increase in PM2.5 is associated with a 3-6% increase in emergency asthma visits
+- Short-term O3 exposure reduces peak expiratory flow (lung function measure) by 5-15%
+- WHO recommendation: use rescue inhalers before unavoidable outdoor exposure; always carry medication
+
+=== SECTION 4: PROTECTIVE MEASURES (WHO ENDORSED) ===
+
+The WHO 2021 guidelines explicitly recognize individual protective actions alongside policy interventions:
+
+Indoor air quality protection:
+- Maintain indoor PM2.5 below 10 µg/m³ using HEPA purifiers
+- Avoid indoor combustion: kerosene lamps, coal stoves, biomass burning increase indoor PM2.5 by 200-500%
+- Adequate ventilation during cooking; exhaust fans reduce kitchen PM2.5 peaks by 60-70%
+- Avoid smoking indoors — tobacco smoke elevates indoor PM2.5 to 200+ µg/m³
+
+Outdoor exposure reduction:
+- Avoid outdoor activity during peak pollution hours (early morning, evening rush)
+- Use routes away from high-traffic roads — roadside PM2.5 is 2-3x that of background levels
+- N95/FFP2 respirators are effective at filtering PM2.5 when properly fitted; surgical masks are not
+- Reduce personal emission contributions: shift to public transport, cycling, walking
+
+=== SECTION 5: GLOBAL BURDEN OF DISEASE ===
+
+The WHO 2021 report cites the following from the Global Burden of Disease (GBD) 2019 study:
+- Household air pollution (HAP): 3.2 million deaths annually
+- Ambient (outdoor) air pollution: 4.2 million deaths annually
+- Combined: 7 million premature deaths per year attributable to air pollution
+- South Asia (including India) bears the highest disease burden globally
+- Air pollution is the single largest environmental health risk factor worldwide
+- Disability-adjusted life years (DALYs) lost to ambient PM2.5: 103 million globally

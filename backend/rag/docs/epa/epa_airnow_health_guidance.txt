@@ -1,0 +1,136 @@
+TITLE: AQI Basics and Health Guidance — AirNow and EPA
+SOURCE: US Environmental Protection Agency (EPA) / AirNow Program
+PUBLISHER: EPA Office of Air Quality Planning and Standards
+YEAR: 2023
+URL: https://www.airnow.gov/aqi/aqi-basics/ and https://www.epa.gov/pm-pollution/particulate-matter-pm-basics
+LICENSE: US Government Public Domain
+DOC_TYPE: guideline
+REGION: us
+AUDIENCE: child, elderly, pregnant, respiratory, general
+
+=== SECTION 1: US AQI SCALE AND HEALTH CATEGORIES ===
+
+The Air Quality Index (AQI) is EPA's index for reporting daily air quality.
+It tells how clean or polluted the air is and what associated health effects might be.
+
+AQI Scale:
+| AQI Value | Category | Color | Who is Affected |
+|-----------|----------|-------|-----------------|
+| 0–50 | Good | Green | Air quality is satisfactory; little or no risk |
+| 51–100 | Moderate | Yellow | Acceptable; unusually sensitive may have minor symptoms |
+| 101–150 | Unhealthy for Sensitive Groups | Orange | Sensitive groups at risk; general public less likely affected |
+| 151–200 | Unhealthy | Red | Everyone may begin experiencing effects |
+| 201–300 | Very Unhealthy | Purple | Health alert; serious effects for everyone |
+| 301–500 | Hazardous | Maroon | Emergency conditions; affects entire population |
+
+AQI is calculated for five major pollutants regulated under the Clean Air Act:
+- Ground-level ozone (O3)
+- Particle pollution / PM2.5
+- Particle pollution / PM10
+- Carbon monoxide (CO)
+- Sulfur dioxide (SO2)
+- Nitrogen dioxide (NO2)
+
+=== SECTION 2: PM2.5 HEALTH GUIDANCE BY POPULATION ===
+
+SENSITIVE GROUPS (AQI 101–150, PM2.5 35.5–55.4 µg/m³):
+Who is a sensitive group:
+- People with lung disease including asthma
+- People with heart disease or who have had a stroke
+- Children under 18 (especially under 5)
+- Adults 65 years and older
+- People who are active outdoors (athletes, outdoor workers)
+- People with diabetes
+- People with certain genetic variants that affect pollution processing
+
+Recommended actions for sensitive groups at AQI 101–150:
+- Reduce prolonged or heavy exertion outdoors
+- Take more breaks during outdoor activities
+- Watch for symptoms such as coughing, shortness of breath, chest tightness
+- Have asthma action plan ready; keep reliever medication on hand
+- Consider moving outdoor activities inside or rescheduling
+
+UNHEALTHY for everyone (AQI 151–200, PM2.5 55.5–150.4 µg/m³):
+- Sensitive groups: Avoid prolonged or heavy outdoor exertion; move activities indoors
+- Everyone else: Reduce prolonged or heavy outdoor exertion
+- If symptoms develop (coughing, difficulty breathing): go indoors; call doctor if worsening
+- EPA recommendation: Run air purifiers indoors; keep windows closed
+
+VERY UNHEALTHY (AQI 201–300, PM2.5 150.5–250.4 µg/m³):
+- Sensitive groups: Avoid ALL outdoor physical activity; remain indoors
+- Everyone: Avoid prolonged or heavy outdoor exertion; consider staying indoors
+- Keep indoor air clean: run HEPA air purifier, do not vacuum (stirs up particles), avoid candles/incense
+- If you must go outside: wear a well-fitted N95 respirator
+
+HAZARDOUS (AQI 301–500, PM2.5 > 250.4 µg/m³):
+- Everyone: Avoid all outdoor physical activity
+- Sensitive groups: Remain indoors; go to a clean-air shelter if home lacks air purification
+- Keep all windows and doors closed; seal gaps with towels or weather stripping
+- Do not rely on ceiling fans — they circulate air but do not filter it
+- Seek emergency medical care for: chest pain, severe shortness of breath, heart attack symptoms
+
+=== SECTION 3: PROTECTING CHILDREN FROM AIR POLLUTION (EPA GUIDANCE) ===
+
+Why children are more vulnerable:
+- Children's lungs are still developing through age 18
+- Children breathe more air relative to their body size than adults
+- Children spend more time being physically active outdoors
+- Children's immune and respiratory defense systems are less developed
+- Air pollution during childhood is linked to: reduced lung function, asthma development, cardiovascular disease risk in adulthood
+
+EPA recommendations for children's air quality protection:
+- Check AQI before planning outdoor activities for children
+- Use AirNow.gov or EPA's AirNow app for real-time AQI
+- When AQI > 100: limit time and intensity of children's outdoor activities
+- When AQI > 150: keep children indoors; cancel outdoor sports, recess, school activities
+- Schools: consider indoor recess policies when AQI is elevated
+- For asthmatic children: follow asthma action plan; ensure school nurse has medication
+- Child-sized N95 respirators are available but require proper fitting
+- Create a clean room: one room in the house with air purifier running, where children spend most time during high-pollution events
+
+Asthma and air pollution — children:
+- Air pollution is a leading trigger of asthma attacks in children
+- PM2.5, O3, NO2, and cold air are all triggers
+- Asthma is the leading cause of school absenteeism from chronic illness in the US
+- During high-AQI events, asthma emergency room visits increase by 10-30%
+- Well-controlled asthma with proper medication significantly reduces risk during pollution events
+
+=== SECTION 4: PM2.5 TECHNICAL STANDARD (NAAQS) ===
+
+The National Ambient Air Quality Standards (NAAQS) for PM2.5 were revised in 2024:
+- Annual standard: 9 µg/m³ (tightened from 12 µg/m³ in 2024)
+- 24-hour standard: 35 µg/m³ (unchanged)
+
+These are legally enforceable standards. Areas exceeding them are classified as "nonattainment."
+
+For comparison:
+- 24-hour average PM2.5 of 55 µg/m³ = AQI 151 (Unhealthy)
+- 24-hour average PM2.5 of 150 µg/m³ = AQI 200 (top of Unhealthy)
+- 24-hour average PM2.5 of 250 µg/m³ = AQI 300 (top of Very Unhealthy)
+
+=== SECTION 5: OZONE (O3) HEALTH GUIDANCE ===
+
+Ground-level ozone is formed when sunlight reacts with NOx and VOCs (from vehicle exhaust, industrial emissions).
+Ozone season: typically April–October in Northern Hemisphere; peaks on hot, sunny, calm days.
+
+Ozone AQI breakpoints:
+| AQI | O3 (8-hr, ppm) |
+|-----|----------------|
+| 0–50 | 0–0.054 |
+| 51–100 | 0.055–0.070 |
+| 101–150 | 0.071–0.085 |
+| 151–200 | 0.086–0.105 |
+| 201–300 | 0.106–0.200 |
+
+Ozone health effects:
+- Inflames and damages airways, similar to sunburn on lung tissue
+- Reduces lung function even in healthy people
+- Aggravates asthma and other lung diseases
+- Causes chest pain, coughing, throat irritation, congestion
+- Long-term: may cause permanent scarring of lung tissue
+
+Protection from ozone:
+- Ozone is highest on hot, sunny afternoons (2 PM–7 PM) — plan outdoor activities for morning or evening
+- Unlike PM2.5, ozone is a gas; N95 masks do NOT filter it effectively
+- Ozone penetrates indoors: 50-80% of outdoor ozone reaches indoors; air purifiers with activated carbon help
+- Stay in air-conditioned spaces during high-ozone days

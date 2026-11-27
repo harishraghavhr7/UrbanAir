@@ -1,0 +1,16 @@
+{
+  "demo@urbsafe.ai": {
+    "user_id": "user_demo_001",
+    "email": "demo@urbsafe.ai",
+    "password_hash": "6c17081f6163e8775ef06c5a20e24a5b696dcc39e0630380f15bc6f2e22e56f9",
+    "salt": "48260fb8d8dce97a",
+    "name": "Aryan Sharma"
+  },
+  "harish123@gmail.com": {
+    "user_id": "a5150121-e904-4352-8d7a-75d1e82c6a8e",
+    "email": "harish123@gmail.com",
+    "password_hash": "7200e049a184bdfd1099f83e2893d9419e1a8fb25d07e4f09d600c75a5e850f1",
+    "salt": "2ca389de0d9f64b2",
+    "name": "harishraghavhr7"
+  }
+}
